@@ -1,4 +1,6 @@
 public class CurrentAccount implements IBank{
+    private double balance;
+    private double interest;
     @Override
     public void withdraw(double amount) {
 
