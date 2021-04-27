@@ -1,7 +1,7 @@
 public class CurrentAccount implements IBank{
     @Override
     public void withdraw(double amount) {
-        
+
     }
 
     @Override
